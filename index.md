@@ -2,6 +2,8 @@ A-plus is interoperable and extendable Learning Management System
 that utilizes different services and API to provide unlimited
 selection of interactive e-learning material types. Today, several
 web services and build tools are included in the A+ software family.
+At Aalto University it is used by some 3500 students on about
+20 courses every year.
 
 ### Resources
 
